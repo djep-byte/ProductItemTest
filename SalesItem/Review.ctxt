@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Review
+comment1.params=reviewer\ content\ stars
+comment1.target=Review(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getReviewer()
+comment3.params=
+comment3.target=int\ getHelpfulVotes()
+comment4.params=
+comment4.target=void\ upvote()
+comment5.params=
+comment5.target=void\ downvote()
+comment6.params=
+comment6.target=java.lang.String\ getDetailString()
+numComments=7
